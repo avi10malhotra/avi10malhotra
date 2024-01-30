@@ -17,4 +17,4 @@
 - [GitHub](https://github.com/avi10malhotra/)
 
 ### Languages and Tools
-Python, SQL, R, C++, Java, UML, Spark, Hadoop, Git
+Python, SQL, R, C++, Java, UML, Spark, Hadoop, Azure, Databricks
